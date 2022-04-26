@@ -18,3 +18,4 @@ def test_loginxyz():
 
 def new_test_method():
     assert True
+

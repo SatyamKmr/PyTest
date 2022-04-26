@@ -30,3 +30,6 @@ def test_m6():
 @pytest.mark.login
 def test_login123():
     assert "admin" == "admin123"
+
+def method_uder_demo1():
+    assert True
