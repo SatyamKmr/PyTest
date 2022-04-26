@@ -15,3 +15,6 @@ def test_m3():
 
 def test_loginxyz():
     assert "admin" == "admin"
+
+def new_test_method():
+    assert True
